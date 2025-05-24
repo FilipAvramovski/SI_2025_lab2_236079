@@ -2,4 +2,5 @@
 Filip Avramovski 236079
 
 Control Flow Graph
-![ControlFlowGrapg](https://github.com/user-attachments/assets/d594dc5e-781b-496c-bec4-1174c9289bd4)
+
+![ControlFlowGraph](https://github.com/user-attachments/assets/a3cfa8df-51c8-4282-b843-922dd85b6a74)
